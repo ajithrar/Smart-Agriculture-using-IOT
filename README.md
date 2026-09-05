@@ -1,6 +1,6 @@
 # An-Intensive-Analysis-And-Implementation-For-Crop-And-Fertilizer-Recommendation
 # Overview:
-Smart Agriculture System using ML to analyze real-time soil NPK levels via sensors and recommend optimal crops &amp; fertilizers. Bridges traditional farming with precision agriculture, improving crop yield, reducing input costs, and boosting farmer income through data-driven insights.
+Smart Agriculture System using ML to analyze real-time soil NPK levels via sensors and recommend optimal crops &amp; fertilizers. The system helps farmers maximize harvest yield, reduce resource waste and boost income through intelligent, precision agriculture.
 # Dataset:
 The dataset used for this project is sourced from Kaggle link:https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 # System Architecture:
