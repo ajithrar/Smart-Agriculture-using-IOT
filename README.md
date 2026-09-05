@@ -9,5 +9,5 @@ The dataset used for this project is sourced from Kaggle link:https://www.kaggle
 # Key Features:
 -  **Soil Nutrient Analysis** — Real-time detection of N, P, K levels from sensor data to assess farmland quality.
 -  **Smart Crop Recommendation** — ML-powered prediction of the most suitable crop based on soil conditions.
-Fertilizer Suggestion — Intelligent recommendation of the exact fertilizer type and quantity needed for optimal yield.
-User-Friendly Interface — Simple input system for farmers to enter soil readings and instantly receive actionable guidance.
+-  **Fertilizer Suggestion** — Intelligent recommendation of the exact fertilizer type and quantity needed for optimal yield.
+-  **User-Friendly Interface** — Simple input system for farmers to enter soil readings and instantly receive actionable guidance.
